@@ -1,0 +1,1977 @@
+category,filename,duration_sec,sample_rate,spectrogram_exists
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_013201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_013201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_013201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_051201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_051201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_051201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_053401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_053401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_053401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_055601_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_055601_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_055601_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_080801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_080801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_080801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_085201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_085201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_085201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_091401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_091401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_091401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_142201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_142201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_142201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_144401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_144401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_144401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_150601_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_150601_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_150601_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_152801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_152801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_152801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_155001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_155001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_155001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_165601_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_165601_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_165601_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_171801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_171801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_171801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_174001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_174001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_174001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_231001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_231001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161001_231001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_090401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_090401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_090401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_094801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_094801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_094801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_151801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_160201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_160201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_160201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_162401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_162401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_162401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_164601_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_164601_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_164601_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_170801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_170801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_170801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_173001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_173001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161002_173001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_064201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_064201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_064201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_074801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_074801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_074801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_081001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_081001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_081001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_083201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_083201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_083201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_085401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_085401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_085401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_100001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_100001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_100001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_102201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_102201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161003_102201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161005_153201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161005_161601_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161005_161601_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301165__0__20161005_161601_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_013201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_013201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_013201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_051201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_051201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_051201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_080801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_080801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_080801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_085201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_085201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_085201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_091401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_091401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_091401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_095801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_095801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_095801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_102001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_102001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_102001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_104201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_104201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_104201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_133801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_133801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_133801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_142201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_142201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_142201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_144401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_144401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_144401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_150601_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_150601_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_150601_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_152801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_152801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_152801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_155001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_155001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_155001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_171801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_171801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_171801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_174001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_174001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161001_174001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_041801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_041801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_041801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_084201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_084201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_084201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_090401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_090401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_090401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_101001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_101001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_101001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_162401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_162401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_162401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_164601_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_164601_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_164601_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_170801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_170801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_170801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_173001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_173001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_173001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_175201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_175201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_175201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_185801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_185801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_185801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_192001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_192001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_192001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_194201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_194201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_194201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_200401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_200401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_200401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_202601_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_202601_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_202601_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_223801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_223801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_223801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_230001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_230001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_230001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_232201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_232201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161002_232201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_064201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_064201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_064201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_070401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_070401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_070401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_072601_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_072601_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_072601_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_074801_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_074801_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_074801_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_081001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_081001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_081001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_083201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_083201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_083201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_085401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_085401_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_085401_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_100001_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_100001_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_100001_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_102201_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_102201_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_102201_3.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161003_104401_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161005_161601_1.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161005_161601_2.wav,60.0,96000,False
+0 ActividadBASE_NO pattern activity,SM301602__0__20161005_161601_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_015601_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_015601_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_015601_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_051401_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_051401_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_051401_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_110601_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_110601_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_110601_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_123401_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_123401_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161003_123401_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161004_124601_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161004_124601_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161004_124601_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161005_075001_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161005_075001_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161005_075001_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161005_225201_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161005_225201_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161005_231401_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161005_231401_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161005_231401_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161005_233601_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161005_233601_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301165__0__20161005_233601_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301602__0__20161003_015601_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301602__0__20161003_015601_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301602__0__20161003_015601_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301602__0__20161003_030201_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301602__0__20161003_030201_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301602__0__20161003_030201_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301602__0__20161003_051401_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301602__0__20161003_110601_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301602__0__20161003_110601_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301602__0__20161003_123401_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM301602__0__20161003_123401_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM681216-0-_20161003_015801_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM681216-0-_20161003_015801_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM681216-0-_20161003_015801_3.wav,60.0,96000,False
+1 Pulses HAMMERING,SM681216-0-_20161003_051601_1.wav,60.0,96000,False
+1 Pulses HAMMERING,SM681216-0-_20161003_051601_2.wav,60.0,96000,False
+1 Pulses HAMMERING,SM681216-0-_20161003_051601_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_131801_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_131801_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_131801_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_134001_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_134001_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_134001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_140201_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_140201_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_140201_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_142401_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_142401_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_142401_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_144601_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_144601_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_144601_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_153001_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_153001_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_153001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_155201_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_155201_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_155201_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_161401_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_161401_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_161401_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_163601_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_163601_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_163601_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_165801_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_165801_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_165801_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_172001_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_172001_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_172001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_193201_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_193201_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_193201_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_195401_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_195401_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_195401_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_201601_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_201601_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_201601_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_203801_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_203801_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_203801_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_210001_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_210001_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_210001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_225001_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_225001_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_225001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_231201_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_231201_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_231201_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_233401_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_233401_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_233401_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_235601_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_235601_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161003_235601_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_033601_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_033601_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_033601_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_035801_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_035801_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_035801_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_042001_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_042001_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_042001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_145801_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_145801_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_145801_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_152001_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_152001_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_152001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_154201_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_154201_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_154201_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_160401_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_160401_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_160401_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_171001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_211201_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_211201_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301165__0__20161004_211201_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_131801_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_131801_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_131801_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_134001_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_134001_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_134001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_140201_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_140201_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_140201_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_142401_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_142401_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_142401_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_153001_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_153001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_155201_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_155201_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_155201_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_161401_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_161401_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_161401_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_163601_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_163601_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_163601_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_165801_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_165801_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_165801_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_172001_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_172001_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_172001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_193201_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_193201_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_193201_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_195401_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_195401_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_195401_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_225001_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_225001_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_225001_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_231201_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_231201_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_231201_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_233401_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_233401_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_233401_3.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_235601_1.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_235601_2.wav,60.0,96000,False
+2 Marked cycles 3 segundos,SM301602__0__20161003_235601_3.wav,60.0,96000,False
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_000401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_000401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_000401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_002601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_002601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_002601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_004801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_004801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_004801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_011001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_011001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_011001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_030001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_030001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_030001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_032201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_032201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_032201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_034401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_034401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_034401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_040601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_040601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_040601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_042801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_042801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_042801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_074601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_074601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_074601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_104201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_104201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_104201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_110401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_110401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_110401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_140001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_140001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_140001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_233201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_233201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161001_233201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_044001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_044001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_044001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_050201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_050201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_050201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_052401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_052401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_052401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_054601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_054601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_054601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_060801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_060801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_060801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_063001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_063001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_063001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_071401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_071401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_071401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_082001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_082001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_082001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_084201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_084201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_084201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_105401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_105401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_105401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_135001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_135001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_135001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_154001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_154001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_154001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_202601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_202601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161002_202601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_021801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_021801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_021801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_024001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_024001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_024001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_104401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_104401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_104401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_174201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_174201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_174201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_180401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_180401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_180401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_212201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_212201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_212201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_214401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_214401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_214401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_220601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_220601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_220601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_222801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_222801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161003_222801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_010201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_010201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_010201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_044201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_044201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_044201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_052601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_052601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_052601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_054801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_054801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_054801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_061001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_061001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_061001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_063201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_063201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_063201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_065401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_065401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_065401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_071601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_071601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_071601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_073801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_073801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_073801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_080001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_080001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_080001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_082201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_082201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_082201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_084401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_084401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_084401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_090601_1.wav,60.0,96000,False
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_090601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_090601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_095001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_095001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_095001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_101201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_101201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_101201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_103401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_103401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_103401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_105601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_105601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_105601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_111801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_111801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_111801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_114001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_114001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_114001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_120201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_120201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_120201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_162601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_162601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_162601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_164801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_164801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_164801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_171001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_171001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_175401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_175401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_175401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_183801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_190001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_190001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_190001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_194401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_194401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_194401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_215601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_215601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_215601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_230201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_230201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_230201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_232401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_232401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_232401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_234601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_234601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161004_234601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_000801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_000801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_000801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_003001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_003001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_003001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_005201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_005201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_005201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_011401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_011401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_011401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_013601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_013601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_013601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_015801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_015801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_015801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_022001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_022001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_022001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_024201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_024201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_024201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_030401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_030401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_030401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_032601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_032601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_032601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_034801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_034801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_034801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_041001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_041001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_041001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_043201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_043201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_043201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_045401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_045401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_045401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_051601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_051601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_051601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_053801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_053801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_053801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_060001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_060001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_060001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_072801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_072801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_072801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_081201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_081201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_081201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_113001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_113001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_113001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_132001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_132001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_132001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_134201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_134201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_134201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_140401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_140401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_140401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_142601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_142601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_142601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_144801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_144801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_144801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_151001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_151001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_151001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_153201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_153201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_155401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_155401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_155401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_170001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_170001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_170001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_172201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_172201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_172201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_174401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_174401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_174401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_180601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_180601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_182801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_182801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_182801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_185001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_185001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_185001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_191201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_191201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_191201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_193401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_193401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_193401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_195601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_195601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_195601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_201801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_201801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_201801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_204001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_204001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_204001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_210201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_210201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_210201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_212401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_212401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_212401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_214601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_214601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_214601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_220801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_220801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_220801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_223001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_223001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_223001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301165__0__20161005_225201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_000401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_000401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_000401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_002601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_002601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_002601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_004801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_004801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_004801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_015401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_015401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_015401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_021601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_021601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_021601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_023801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_023801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_023801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_053401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_053401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_053401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_055601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_055601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_055601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_064001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_064001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_064001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_072401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_072401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_072401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_074601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_074601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_074601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_083001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_083001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_083001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_093601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_093601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_093601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_110401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_110401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_110401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_112601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_112601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_112601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_114801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_114801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_114801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_131601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_131601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_131601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_140001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_140001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_140001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_180201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_180201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_180201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_182401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_182401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_182401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_184601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_184601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_184601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_190801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_190801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_190801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_203601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_203601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_203601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_205801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_205801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_205801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_220401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_220401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_220401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_222601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_222601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_222601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_224801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_224801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_224801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_231001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_231001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161001_231001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_025001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_025001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_025001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_044001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_044001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_044001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_050201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_050201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_050201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_052401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_052401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_052401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_054601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_054601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_054601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_060801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_060801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_060801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_063001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_063001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161002_063001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_011201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_011201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_011201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_021801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_021801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_021801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_024001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_024001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_024001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_034601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_034601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_034601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_040801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_040801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_040801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_144601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_144601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_144601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_150801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_150801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_150801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_153001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_174201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_174201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_174201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_180401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_180401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_180401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_182601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_182601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_184801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_184801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_184801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_201601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_201601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_201601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_203801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_203801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_203801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_210001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_210001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_210001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_212201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_212201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_212201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_214401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_214401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_214401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_220601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_220601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_220601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_222801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_222801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161003_222801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_001801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_001801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_001801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_004001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_004001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_004001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_010201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_010201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_010201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_012401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_012401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_012401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_014601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_014601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_014601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_020801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_020801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_020801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_023001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_023001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_023001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_025201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_025201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_025201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_031401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_031401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_031401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_033601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_033601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_033601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_035801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_035801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_035801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_042001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_042001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_042001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_044201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_044201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_044201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_050401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_050401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_050401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_052601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_052601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_052601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_054801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_054801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_054801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_061001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_061001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_061001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_063201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_063201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_063201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_065401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_065401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_065401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_073801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_073801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_073801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_080001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_080001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_080001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_082201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_082201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_082201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_084401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_084401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_084401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_090601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_090601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_090601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_095001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_095001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_095001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_101201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_101201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_101201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_103401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_103401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_103401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_105601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_105601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_105601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_111801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_111801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_111801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_114001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_114001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_114001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_120201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_120201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_120201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_122401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_122401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_122401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_162601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_162601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_162601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_171001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_171001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_171001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_183801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_183801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_183801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_190001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_190001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_190001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_192201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_192201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_192201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_194401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_194401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_194401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_215601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_215601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_215601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_230201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_230201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_230201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_232401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_232401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_232401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_234601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_234601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161004_234601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_000801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_000801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_000801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_003001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_003001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_003001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_013601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_013601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_013601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_015801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_015801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_015801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_022001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_022001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_022001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_030401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_030401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_030401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_032601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_032601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_032601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_034801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_034801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_034801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_041001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_041001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_041001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_062201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_062201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_062201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_064401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_064401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_072801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_072801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_072801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_075001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_075001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_075001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_081201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_081201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_081201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_104601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_104601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_104601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_110801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_110801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_110801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_121401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_121401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_121401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_123601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_123601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_123601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_144801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_144801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_144801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_174401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_185001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_185001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_185001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_191201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_191201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_191201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_193401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_193401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_193401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_195601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_195601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_195601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_201801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_201801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_201801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_220801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_220801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_220801_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_223001_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_223001_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_223001_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_225201_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_225201_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_225201_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_231401_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_231401_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_231401_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_233601_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_233601_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_233601_3.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_235801_1.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_235801_2.wav,60.0,96000,True
+3 Continuous activity & tone 3.15kHz_SPL ALTO,SM301602__0__20161005_235801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_015401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_015401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_015401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_021601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_021601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_021601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_023801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_023801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_023801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_045001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_045001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_045001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_061801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_061801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_061801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_064001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_064001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161001_064001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161002_041801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161002_041801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161002_041801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_070401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_070401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_070401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_072601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_072601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_072601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_182601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_182601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_182601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_184801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_184801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_184801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_191001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_191001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161003_191001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_001801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_001801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_001801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_004001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_004001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_004001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_012401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_012401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_012401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_014601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_014601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_014601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_020801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_020801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_020801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_023001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_023001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_023001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_025201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_025201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_025201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_031401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_031401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_031401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_050401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_050401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_050401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_122401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_122401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_122401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_130801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_130801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_130801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_133001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_133001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_133001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_135201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_135201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_135201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_141401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_141401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_141401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_143601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_143601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_143601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_173201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_173201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_173201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_192201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_192201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_192201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_200601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_200601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_200601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_202801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_202801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_202801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_205001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_205001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_205001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_213401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_213401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161004_213401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_091801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_091801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_091801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_094001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_094001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_094001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_102401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_104601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_104601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_104601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_110801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_110801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_110801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_121401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_121401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_121401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_123601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_123601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_123601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_163801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_163801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301165__0__20161005_163801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161001_061801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161001_061801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161001_061801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161002_221601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161002_221601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161002_221601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161002_234401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161002_234401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161002_234401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161003_191001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161003_191001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161003_191001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_130801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_130801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_130801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_133001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_133001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_133001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_135201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_135201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_135201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_141401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_141401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_141401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_143601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_143601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_143601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_145801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_145801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_145801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_152001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_152001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_152001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_154201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_154201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_154201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_160401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_160401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_160401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_200601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_200601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_200601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_202801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_202801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_202801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_205001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_205001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_205001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_211201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_211201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_211201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_213401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_213401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161004_213401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_005201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_005201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_005201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_011401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_011401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_011401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_024201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_024201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_024201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_043201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_043201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_043201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_045401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_045401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_045401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_051601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_051601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_051601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_053801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_053801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_053801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_060001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_060001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_060001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_091801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_091801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_091801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_094001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_094001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_094001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_132001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_132001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_132001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_134201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_134201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_134201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_140401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_140401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_140401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_142601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_142601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_142601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_151001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_151001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_151001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_153201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_153201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_153201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_155401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_155401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_155401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_163801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_163801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_163801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_170001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_170001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_170001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_172201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_172201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_172201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_174401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_174401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_180601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_180601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_180601_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_182801_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_182801_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_182801_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_204001_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_204001_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_204001_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_210201_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_210201_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_210201_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_212401_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_212401_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_212401_3.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_214601_1.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_214601_2.wav,60.0,96000,True
+4 Continuous activity & tone 3.15kHz_ SPL BAJO,SM301602__0__20161005_214601_3.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161001_161201_1.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161001_161201_2.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161001_161201_3.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161001_163401_1.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161001_163401_2.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161001_163401_3.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161002_092601_1.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161002_092601_2.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161002_092601_3.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161002_111601_2.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161002_111601_3.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161002_145601_1.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161002_145601_2.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161002_145601_3.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161003_112801_1.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161003_112801_2.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161003_112801_3.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161003_115001_1.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161003_115001_2.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161003_115001_3.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161003_121201_2.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161003_121201_3.wav,60.0,96000,True
+5 Blasts,SM301165__0__20161005_115201_1.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161001_161201_2.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161001_161201_3.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161001_163401_1.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161001_163401_2.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161001_163401_3.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161002_092601_1.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161002_092601_2.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161002_092601_3.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161002_111601_3.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161002_145601_1.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161002_145601_2.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161002_145601_3.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161003_112801_1.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161003_112801_2.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161003_112801_3.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161003_115001_1.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161003_115001_2.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161003_115001_3.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161003_121201_1.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161003_121201_2.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161003_121201_3.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161005_115201_1.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161005_115201_2.wav,60.0,96000,True
+5 Blasts,SM301602__0__20161005_115201_3.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161001_161401_1.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161001_161401_2.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161001_161401_3.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161001_163601_1.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161001_163601_2.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161001_163601_3.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161002_111801_1.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161002_111801_2.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161002_111801_3.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161002_145801_1.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161002_145801_2.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161002_145801_3.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161003_113001_1.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161003_113001_2.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161003_113001_3.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161003_115201_1.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161003_115201_2.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161003_115201_3.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161003_121401_1.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161003_121401_2.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161003_123601_2.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161003_123601_3.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161005_100401_2.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161005_100401_3.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161005_115401_1.wav,60.0,96000,True
+5 Blasts,SM681216-0-_20161005_115401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_070201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_070201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_070201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_072401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_072401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_072401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_083001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_083001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_083001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_093601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_093601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_093601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_095801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_095801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_095801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_102001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_102001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_102001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_112601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_112601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_112601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_114801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_114801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_114801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_121001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_121001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_121001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_123201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_123201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_123201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_125401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_125401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_125401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_131601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_131601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_131601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_133801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_133801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_133801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_180201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_180201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_180201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_182401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_182401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_182401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_184601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_184601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_184601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_190801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_190801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_190801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_193001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_193001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_193001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_195201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_195201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_195201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_201401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_201401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_201401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_203601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_203601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_203601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_205801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_205801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_205801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_212001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_212001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_212001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_214201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_214201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_214201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_220401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_220401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_220401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_222601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_222601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_222601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_224801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_224801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_224801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_235401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_235401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161001_235401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_003801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_003801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_003801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_010001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_010001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_010001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_012201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_012201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_012201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_014401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_014401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_014401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_020601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_020601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_020601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_022801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_022801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_022801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_025001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_025001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_025001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_031201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_031201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_031201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_033401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_033401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_033401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_035601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_035601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_035601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_065201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_065201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_065201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_073601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_073601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_073601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_075801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_075801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_075801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_103201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_103201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_103201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_111601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_113801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_113801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_113801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_120001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_120001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_120001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_122201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_122201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_122201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_124401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_124401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_124401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_130601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_130601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_130601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_132801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_132801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_132801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_141201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_141201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_141201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_175201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_175201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_175201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_181401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_181401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_181401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_183601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_183601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_183601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_185801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_185801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_185801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_192001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_192001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_192001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_194201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_194201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_194201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_200401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_200401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_200401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_204801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_204801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_211001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_211001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_211001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_213201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_213201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_215401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_221601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_221601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_221601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_223801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_223801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_223801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_230001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_230001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_230001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_232201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_232201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_232201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_234401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_234401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161002_234401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_000601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_000601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_000601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_002801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_002801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_002801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_005001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_005001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_005001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_011201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_011201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_011201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_013401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_013401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_013401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_030201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_030201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_030201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_032401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_032401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_032401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_034601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_034601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_034601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_040801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_040801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_040801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_043001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_043001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_043001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_045201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_045201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_045201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_053601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_053601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_053601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_055801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_055801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_055801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_062001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_062001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_062001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_091601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_091601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_091601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_093801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_093801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_093801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_125601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_125601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_125601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_150801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_150801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161003_150801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_092801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_092801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_092801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_181601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_181601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_181601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_221801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_221801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_221801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_224001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_224001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161004_224001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161005_062201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161005_062201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161005_062201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161005_064401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161005_070601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161005_070601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161005_070601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161005_115201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161005_115201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301165__0__20161005_180601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_011001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_011001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_011001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_030001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_030001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_030001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_032201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_032201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_032201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_034401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_034401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_034401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_040601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_040601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_040601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_042801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_042801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_042801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_045001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_045001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_045001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_070201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_070201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_070201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_121001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_121001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_121001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_123201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_123201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_123201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_125401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_125401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_125401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_161201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_165601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_165601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_165601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_193001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_193001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_193001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_195201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_195201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_195201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_201401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_201401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_201401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_212001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_212001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_212001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_214201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_214201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_214201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_233201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_233201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_233201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_235401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_235401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161001_235401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_001601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_001601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_001601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_003801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_003801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_003801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_010001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_010001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_010001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_012201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_012201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_012201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_014401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_014401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_014401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_020601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_020601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_020601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_022801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_022801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_022801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_031201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_031201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_031201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_033401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_033401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_033401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_035601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_035601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_035601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_065201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_065201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_065201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_071401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_071401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_071401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_073601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_073601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_073601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_075801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_075801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_075801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_082001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_082001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_082001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_094801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_094801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_094801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_103201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_103201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_103201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_105401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_105401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_105401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_111601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_111601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_113801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_113801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_113801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_124401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_130601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_130601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_130601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_132801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_132801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_132801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_135001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_135001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_135001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_141201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_141201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_141201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_143401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_143401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_143401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_151801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_151801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_151801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_154001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_154001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_154001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_181401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_181401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_181401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_183601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_183601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_183601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_204801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_204801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_204801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_211001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_211001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_211001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_213201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_213201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_213201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_215401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_215401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161002_215401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_000601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_000601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_000601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_002801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_002801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_002801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_005001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_005001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_005001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_013401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_013401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_013401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_032401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_032401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_032401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_043001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_043001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_043001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_045201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_045201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_045201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_051401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_053601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_053601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_053601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_055801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_055801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_055801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_062001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_062001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_062001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_091601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_091601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_091601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_093801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_093801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_093801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_104401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_104401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_125601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_125601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161003_125601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_071601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_071601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_071601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_092801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_092801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_092801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_124601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_124601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_124601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_164801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_164801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_164801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_173201_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_173201_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_173201_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_175401_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_175401_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_175401_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_181601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_181601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_181601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_221801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_221801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_221801_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_224001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_224001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161004_224001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161005_070601_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161005_070601_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161005_070601_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161005_113001_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161005_113001_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM301602__0__20161005_113001_3.wav,60.0,96000,True
+6 Machinery continuous activity,SM681216-0-_20161003_125801_1.wav,60.0,96000,True
+6 Machinery continuous activity,SM681216-0-_20161003_125801_2.wav,60.0,96000,True
+6 Machinery continuous activity,SM681216-0-_20161003_125801_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161002_143401_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161002_143401_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161002_143401_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_083401_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_083401_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_083401_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_085601_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_085601_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_085601_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_100201_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_100201_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_100201_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_102401_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_102401_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_125801_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_125801_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301165__0__20161005_125801_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_064401_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_083401_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_083401_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_083401_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_085601_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_085601_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_085601_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_100201_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_100201_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_100201_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_102401_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_102401_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_102401_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_125801_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_125801_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM301602__0__20161005_125801_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM681216-0-_20161005_083601_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM681216-0-_20161005_083601_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM681216-0-_20161005_083601_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM681216-0-_20161005_085801_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM681216-0-_20161005_085801_2.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM681216-0-_20161005_085801_3.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM681216-0-_20161005_100401_1.wav,60.0,96000,True
+7 Works_ sirens and knocks en altas frecuencias RAFAGAS a 3.15,SM681216-0-_20161005_130001_1.wav,60.0,96000,True

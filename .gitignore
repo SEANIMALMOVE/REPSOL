@@ -1,0 +1,17 @@
+# Ignore all large data folders
+Data/
+data/
+Audio/
+Annotations/
+Spectrograms/
+
+
+# Ignore audio
+*.wav
+
+# Ignore spectrograms
+*.pt
+*.npy
+
+# Python cache
+__pycache__/

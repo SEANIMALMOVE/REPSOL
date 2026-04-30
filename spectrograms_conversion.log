@@ -1,0 +1,8 @@
+/mnt/c/home/ben/REPSOL/src/preprocess/generate_spectrograms_from_images.py:2: SyntaxWarning: invalid escape sequence '\R'
+  Convert spectrogram images from D:\REPSOL_Classification\{class}\Espectrogramas
+/mnt/c/home/ben/REPSOL/src/preprocess/generate_spectrograms_from_images.py:38: SyntaxWarning: invalid escape sequence '\R'
+  source_images_dir: D:\REPSOL_Classification (base dir with class subfolders)
+Traceback (most recent call last):
+  File "/mnt/c/home/ben/REPSOL/src/preprocess/generate_spectrograms_from_images.py", line 7, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'

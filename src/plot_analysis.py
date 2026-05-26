@@ -416,10 +416,10 @@ def _resolve_path(base: Path, p):
 
 
 try:
-    from src.model import get_model
+    from EfficientNet.model import get_model
 except Exception:
     try:
-        from model import get_model
+        from EfficientNet.model import get_model
     except Exception:
         get_model = None
 

@@ -35,13 +35,13 @@ from tqdm import tqdm # type: ignore
 # Import modules robustly so `py -m src.train` and `py src/train.py` both work
 try:
     from .model import get_model, get_weighted_criterion
-    from .dataloaders import get_dataloaders
+    from ..dataloaders import get_dataloaders
 except Exception:
     try:
-        from model import get_model, get_weighted_criterion
+        from EfficientNet.model import get_model, get_weighted_criterion
         from dataloaders import get_dataloaders
     except Exception:
-        from src.model import get_model, get_weighted_criterion
+        from EfficientNet.model import get_model, get_weighted_criterion
         from src.dataloaders import get_dataloaders
 
 

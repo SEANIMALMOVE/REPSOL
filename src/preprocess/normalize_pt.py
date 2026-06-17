@@ -21,7 +21,7 @@ def normalize_tensor(tensor: torch.Tensor) -> torch.Tensor:
 
 
 def process_file(path: Path, inplace: bool = False, backup: bool = False) -> Path:
-    tensor = torch.load(path)
+    tensor = torch.load(path, map_location="cpu")
 
     # Match dataset shape handling: [H,W] -> [1,H,W]; permute if channels last
     if tensor.dim() == 2:
@@ -74,8 +74,11 @@ def main():
     print(f"Found {len(files)} .pt files. inplace={args.inplace}, backup={args.backup}")
 
     for i, p in enumerate(files, 1):
-        out = process_file(p, inplace=args.inplace, backup=args.backup)
-        print(f"[{i}/{len(files)}] -> {p} -> {out}")
+        try:
+            out = process_file(p, inplace=args.inplace, backup=args.backup)
+            print(f"[{i}/{len(files)}] -> {p} -> {out}")
+        except Exception as e:
+            print(f"[{i}/{len(files)}] -> {p} -> skipped: {type(e).__name__}: {e}")
 
 
 if __name__ == "__main__":

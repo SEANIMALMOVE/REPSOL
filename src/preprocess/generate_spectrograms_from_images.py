@@ -6,22 +6,36 @@ from pathlib import Path
 import pandas as pd
 import torch
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageFile
 import sys
+
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 
 def image_to_tensor(image_path):
     """Convert an image file to a torch tensor."""
     try:
-        img = Image.open(image_path)
-        # Convert to numpy array
-        img_array = np.array(img)
-        # Convert to tensor
-        tensor = torch.from_numpy(img_array).float()
-        return tensor
+        try:
+            from torchvision.io import read_image
+
+            return read_image(str(image_path)).float()
+        except Exception:
+            with Image.open(image_path) as img:
+                img = img.convert("RGB")
+                img.load()
+                img_array = np.asarray(img, dtype=np.uint8)
+
+            tensor = torch.from_numpy(np.ascontiguousarray(img_array)).permute(2, 0, 1).float()
+            return tensor
     except Exception as e:
-        print(f"Error converting {image_path}: {e}")
+        print(f"Error converting {image_path}: {type(e).__name__}: {e!r}")
         return None
+
+
+def _source_image_candidates(source_images_dir, class_name, filename):
+    filename_base = filename[:-4] if filename.endswith(".wav") else filename
+    for folder_name in ("Espectrogramas", "Espectrograma"):
+        yield Path(source_images_dir) / class_name / folder_name / f"{filename_base}_spectrogram_win16384.png"
 
 
 def generate_spectrograms_from_images(
@@ -72,10 +86,13 @@ def generate_spectrograms_from_images(
             class_name = str(row["category"])
             filename = str(row["filename"])
             
-            # Build source image path: D:\REPSOL_Classification\{class}\Espectrogramas\{filename}_spectrogram_win16384.png
-            source_image = source_images_dir / class_name / "Espectrogramas" / (filename + "_spectrogram_win16384.png")
+            source_image = None
+            for candidate in _source_image_candidates(source_images_dir, class_name, filename):
+                if candidate.exists():
+                    source_image = candidate
+                    break
             
-            if not source_image.exists():
+            if source_image is None:
                 missing.append(f"{class_name}/{filename}")
                 continue
             
@@ -88,10 +105,20 @@ def generate_spectrograms_from_images(
             # Save to target
             dst_dir = target_dir / split / class_name
             dst_dir.mkdir(parents=True, exist_ok=True)
-            dst_path = dst_dir / (filename + ".wav.pt")
+            filename_base = filename[:-4] if filename.endswith(".wav") else filename
+            dst_path = dst_dir / (filename_base + ".wav.pt")
+
+            if dst_path.exists():
+                try:
+                    torch.load(dst_path, map_location="cpu")
+                    continue
+                except Exception:
+                    print(f"Corrupt tensor detected, regenerating: {dst_path}")
             
             try:
-                torch.save(tensor, dst_path)
+                tmp_path = dst_path.with_suffix(dst_path.suffix + ".tmp")
+                torch.save(tensor, tmp_path)
+                tmp_path.replace(dst_path)
                 counts[split] += 1
             except Exception as e:
                 print(f"Error saving {dst_path}: {e}")

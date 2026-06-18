@@ -3,7 +3,9 @@ from torch.utils.data import Dataset # type: ignore
 import torchaudio # type: ignore
 import os
 
-### Get one torch sample from 1 spectogram
+"""Load normalized spectrogram .pt files as PyTorch dataset.
+Automatically pads/crops to fixed width (400). Supports in-memory caching.
+"""
 
 # Custom Dataset for loading spectrogram .pt files
 class SpectrogramPTDataset(Dataset):
@@ -19,7 +21,7 @@ class SpectrogramPTDataset(Dataset):
         for class_name in self.classes:
             class_path = os.path.join(root_dir, class_name)
             for fname in os.listdir(class_path):
-                if fname.endswith(".pt"):
+                if fname.endswith(".norm.pt"):
                     self.samples.append((
                         os.path.join(class_path, fname),
                         self.class_to_idx[class_name]

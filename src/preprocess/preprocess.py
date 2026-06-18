@@ -3,7 +3,10 @@ import numpy as np # type: ignore
 import torch # type: ignore
 from pathlib import Path
 
-# generate spectograms normalization
+"""Generate mel-spectrograms from raw WAV audio files (alternative pipeline).
+NOTE: Main pipeline uses generate_spectrograms_from_images.py (PNG → normalized .pt).
+This module is kept for reference or alternative spectrogram generation paths.
+"""
 
 def generate_spectrogram(audio_path, output_path, target_sr=44000, n_mels=128):
     # Load audio using target sample rate

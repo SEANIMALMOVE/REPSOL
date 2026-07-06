@@ -31,9 +31,17 @@ class EfficientNetSpectrogram(nn.Module):
 
     def forward(self, x):
         """
-        x shape: [B, 1, H, W]  (mel spectrogram)
+        x shape: [B, 1, H, W] or [B, 3, H, W] (mel spectrogram)
         """
-        x = x.repeat(1, 3, 1, 1)  # Makes 3 identical channels so the model can use knowledge from color images
+        if x.dim() != 4:
+            raise ValueError(f"Expected input tensor of shape [B, C, H, W], got {tuple(x.shape)}")
+
+        if x.shape[1] == 1:
+            x = x.repeat(1, 3, 1, 1)
+        elif x.shape[1] == 3:
+            pass
+        else:
+            raise ValueError(f"Expected 1 or 3 input channels, got {x.shape[1]}")
 
         # Forward through EfficientNet
         return self.backbone(x)

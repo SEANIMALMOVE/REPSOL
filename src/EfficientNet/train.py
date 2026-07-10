@@ -60,6 +60,7 @@ class Trainer:
         patience: int = 3,
         lr: float = 1e-3,
         device: str = "cpu",
+        target_width: int | None = 400,
     ):
         self.device = device
         self.max_epochs = max_epochs
@@ -101,6 +102,7 @@ class Trainer:
             pin_memory=pin_memory,
             persistent_workers=(not interactive),
             prefetch_factor=2,
+            target_width=target_width,
         )
 
         self.num_classes = len(self.train_loader.dataset.classes)

@@ -1,0 +1,12 @@
+model,test_acc,test_macro_f1,test_weighted_f1,note
+MobileNetV3_02,0.8653198653198653,0.8283333333146565,0.8666542410713154,LIVE eval on fixed Data/Spectrograms_224
+EfficientNet_05,0.8114478114478114,0.8163372739053925,0.8137872192077329,LIVE eval on fixed Data/Spectrograms_224
+EfficientNet_04,0.8316498316498316,0.7784186084579086,0.8342448681779616,LIVE eval on fixed Data/Spectrograms_224
+ResNet50_02,0.8080808080808081,0.7252813144201994,0.8207149557024244,LIVE eval on fixed Data/Spectrograms_224
+EfficientNet_01,0.6768,0.625,0.6548,"broken data, baseline config"
+EfficientNet_02,0.7,0.59,0.69,"broken data, baseline config (previous best)"
+ResNet50_01,0.6128,0.549,0.6031,broken data; 25M params fully fine-tuned -> memorised training set
+PreTrained_02,0.2727272727272727,0.26545386192463805,0.2579765308187038,LIVE eval on fixed Data/Spectrograms_224
+PreTrained_01 (Watkins zero-shot),0.0034,0.0,0.0062,"44-class marine-species model evaluated unchanged: disjoint class sets, invalid experiment"
+EfficientNet_03a (squared weights),,,,"training collapsed (val acc below majority baseline); aborted, never test-evaluated"
+EfficientNet_03b (boost + OneCycle),,,,"best val acc 71.6% (ep13), then overfit to 99% train acc; stopped ep18, never test-evaluated"

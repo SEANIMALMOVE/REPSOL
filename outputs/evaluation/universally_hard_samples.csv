@@ -1,0 +1,24 @@
+file,true,MobileNetV3_02,EfficientNet_04,EfficientNet_05,ResNet50_02
+SM301165__0__20161001_053401_3.wav.norm.pt,0 ActividadBASE_NO pattern activity,3 Continuous activity & t,4 Continuous activity & t,4 Continuous activity & t,4 Continuous activity & t
+SM301602__0__20161002_223801_3.wav.norm.pt,0 ActividadBASE_NO pattern activity,4 Continuous activity & t,4 Continuous activity & t,4 Continuous activity & t,1 Pulses HAMMERING
+SM301602__0__20161002_232201_1.wav.norm.pt,0 ActividadBASE_NO pattern activity,6 Machinery continuous ac,3 Continuous activity & t,3 Continuous activity & t,3 Continuous activity & t
+SM301165__0__20161005_225201_1.wav.norm.pt,1 Pulses HAMMERING,3 Continuous activity & t,3 Continuous activity & t,3 Continuous activity & t,3 Continuous activity & t
+SM301165__0__20161005_225201_2.wav.norm.pt,1 Pulses HAMMERING,3 Continuous activity & t,3 Continuous activity & t,3 Continuous activity & t,3 Continuous activity & t
+SM301165__0__20161004_171001_3.wav.norm.pt,2 Marked cycles 3 segundos,4 Continuous activity & t,4 Continuous activity & t,4 Continuous activity & t,4 Continuous activity & t
+SM301165__0__20161001_140001_3.wav.norm.pt,3 Continuous activity & tone 3.15kHz_SPL,6 Machinery continuous ac,6 Machinery continuous ac,6 Machinery continuous ac,0 ActividadBASE_NO patter
+SM301165__0__20161001_233201_3.wav.norm.pt,3 Continuous activity & tone 3.15kHz_SPL,6 Machinery continuous ac,6 Machinery continuous ac,6 Machinery continuous ac,4 Continuous activity & t
+SM301165__0__20161002_135001_3.wav.norm.pt,3 Continuous activity & tone 3.15kHz_SPL,7 Works_ sirens and knock,7 Works_ sirens and knock,6 Machinery continuous ac,7 Works_ sirens and knock
+SM301165__0__20161004_065401_1.wav.norm.pt,3 Continuous activity & tone 3.15kHz_SPL,1 Pulses HAMMERING,1 Pulses HAMMERING,1 Pulses HAMMERING,1 Pulses HAMMERING
+SM301165__0__20161004_071601_3.wav.norm.pt,3 Continuous activity & tone 3.15kHz_SPL,6 Machinery continuous ac,6 Machinery continuous ac,6 Machinery continuous ac,6 Machinery continuous ac
+SM301602__0__20161001_190801_1.wav.norm.pt,3 Continuous activity & tone 3.15kHz_SPL,6 Machinery continuous ac,1 Pulses HAMMERING,6 Machinery continuous ac,7 Works_ sirens and knock
+SM301602__0__20161003_011201_1.wav.norm.pt,3 Continuous activity & tone 3.15kHz_SPL,0 ActividadBASE_NO patter,0 ActividadBASE_NO patter,6 Machinery continuous ac,0 ActividadBASE_NO patter
+SM301602__0__20161005_104601_1.wav.norm.pt,3 Continuous activity & tone 3.15kHz_SPL,4 Continuous activity & t,4 Continuous activity & t,4 Continuous activity & t,4 Continuous activity & t
+SM301165__0__20161004_001801_2.wav.norm.pt,4 Continuous activity & tone 3.15kHz_ SP,2 Marked cycles 3 segundo,2 Marked cycles 3 segundo,2 Marked cycles 3 segundo,2 Marked cycles 3 segundo
+SM301165__0__20161005_121401_3.wav.norm.pt,4 Continuous activity & tone 3.15kHz_ SP,3 Continuous activity & t,3 Continuous activity & t,3 Continuous activity & t,3 Continuous activity & t
+SM301602__0__20161002_234401_3.wav.norm.pt,4 Continuous activity & tone 3.15kHz_ SP,3 Continuous activity & t,0 ActividadBASE_NO patter,6 Machinery continuous ac,3 Continuous activity & t
+SM301602__0__20161005_142601_1.wav.norm.pt,4 Continuous activity & tone 3.15kHz_ SP,3 Continuous activity & t,3 Continuous activity & t,6 Machinery continuous ac,1 Pulses HAMMERING
+SM301602__0__20161005_142601_2.wav.norm.pt,4 Continuous activity & tone 3.15kHz_ SP,3 Continuous activity & t,3 Continuous activity & t,6 Machinery continuous ac,3 Continuous activity & t
+SM301165__0__20161005_062201_1.wav.norm.pt,6 Machinery continuous activity,7 Works_ sirens and knock,1 Pulses HAMMERING,3 Continuous activity & t,1 Pulses HAMMERING
+SM301165__0__20161005_062201_2.wav.norm.pt,6 Machinery continuous activity,3 Continuous activity & t,1 Pulses HAMMERING,3 Continuous activity & t,1 Pulses HAMMERING
+SM301165__0__20161005_062201_3.wav.norm.pt,6 Machinery continuous activity,3 Continuous activity & t,3 Continuous activity & t,3 Continuous activity & t,1 Pulses HAMMERING
+SM301602__0__20161001_011001_2.wav.norm.pt,6 Machinery continuous activity,3 Continuous activity & t,3 Continuous activity & t,3 Continuous activity & t,3 Continuous activity & t

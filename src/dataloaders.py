@@ -21,9 +21,15 @@ def get_dataloaders(
     persistent_workers: bool = False,
     prefetch_factor: int = 2,
     cache_in_memory: bool = False,
+    train_transform=None,
+    target_width: int | None = 400,
 ):
     """
     Creates train / val / test dataloaders.
+
+    train_transform: applied to TRAIN samples only (e.g. SpecAugment).
+    target_width: pad/crop width for stored tensors; None = keep as-is
+                  (use None for pre-resized datasets like Spectrograms_224).
 
     spectrogram_root/
         train/
@@ -31,9 +37,12 @@ def get_dataloaders(
         test/
     """
 
-    train_ds = SpectrogramPTDataset(spectrogram_root / "train", cache_in_memory=cache_in_memory)
-    val_ds = SpectrogramPTDataset(spectrogram_root / "val", cache_in_memory=False)
-    test_ds = SpectrogramPTDataset(spectrogram_root / "test", cache_in_memory=False)
+    train_ds = SpectrogramPTDataset(spectrogram_root / "train", transform=train_transform,
+                                    cache_in_memory=cache_in_memory, target_width=target_width)
+    val_ds = SpectrogramPTDataset(spectrogram_root / "val", cache_in_memory=False,
+                                  target_width=target_width)
+    test_ds = SpectrogramPTDataset(spectrogram_root / "test", cache_in_memory=False,
+                                   target_width=target_width)
 
     # Only enable persistent workers when num_workers>0
     pw = bool(persistent_workers and num_workers > 0)

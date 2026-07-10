@@ -9,10 +9,14 @@ Automatically pads/crops to fixed width (400). Supports in-memory caching.
 
 # Custom Dataset for loading spectrogram .pt files
 class SpectrogramPTDataset(Dataset):
-    def __init__(self, root_dir, transform=None, cache_in_memory: bool = False):
+    def __init__(self, root_dir, transform=None, cache_in_memory: bool = False,
+                 target_width: int | None = 400):
         self.root_dir = root_dir
         self.transform = transform
         self.cache_in_memory = bool(cache_in_memory)
+        # Pad/crop width to this value; None = keep stored width as-is
+        # (use None for pre-resized datasets like Spectrograms_224).
+        self.target_width = target_width
 
         self.samples = []
         self.classes = sorted(os.listdir(root_dir))
@@ -61,15 +65,14 @@ class SpectrogramPTDataset(Dataset):
         # Removed online normalization for faster training.
 
         # ------------------------------------------------------------
-        # FIX: Pad or crop all spectrograms to a fixed width
-        TARGET_WIDTH = 400
-        _, H, W = tensor.shape
-
-        if W < TARGET_WIDTH:
-            pad_amount = TARGET_WIDTH - W
-            tensor = torch.nn.functional.pad(tensor, (0, pad_amount))
-        else:
-            tensor = tensor[:, :, :TARGET_WIDTH]
+        # Pad or crop all spectrograms to a fixed width (skip if target_width is None)
+        if self.target_width is not None:
+            _, H, W = tensor.shape
+            if W < self.target_width:
+                pad_amount = self.target_width - W
+                tensor = torch.nn.functional.pad(tensor, (0, pad_amount))
+            else:
+                tensor = tensor[:, :, :self.target_width]
         # ------------------------------------------------------------
 
         if self.transform:

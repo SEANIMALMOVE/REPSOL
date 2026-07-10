@@ -1,346 +1,208 @@
 # REPSOL Industrial Sound Classification Project
 
-A deep learning project for classifying industrial sounds from REPSOL facilities using spectrogram-based audio analysis. This project implements multiple neural network architectures to identify different types of machinery and operational patterns.
+A deep learning project for classifying industrial sounds from REPSOL facilities using spectrogram-based audio analysis. Eight sound categories, four CNN architectures compared, with a full ablation study separating the effect of a critical data-pipeline fix from model/training improvements.
+
+**Best model: MobileNetV3-Large — 86.5% test accuracy, 0.83 macro-F1** (up from a 70% baseline).
 
 ## 📋 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Models](#models)
-- [Results](#results)
-- [Data Pipeline](#data-pipeline)
+- [Project Overview](#-project-overview)
+- [Dataset](#-dataset)
+- [The Data Pipeline Fix (key finding)](#-the-data-pipeline-fix-key-finding)
+- [Models & Results](#-models--results)
+- [Findings from Evaluation](#-findings-from-evaluation)
+- [Which Model to Use When](#-which-model-to-use-when)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Next Steps](#-next-steps)
 
 ## 🎯 Project Overview
 
-This project aims to classify industrial sounds into 8 distinct categories using deep learning. The sound data is converted to spectrograms (frequency representations) and fed into neural networks for classification. This could be used for predictive maintenance, anomaly detection, or operational monitoring in industrial settings.
+This project classifies 60-second industrial acoustic recordings into 8 categories using transfer-learning CNNs on spectrogram images. Intended uses: predictive maintenance, anomaly detection, and pre-labeling large volumes of unlabeled monitoring audio (model predicts + human reviews low-confidence cases).
 
 ### Sound Categories
 
-The dataset contains 8 classes of industrial sounds:
+| # | Class | Train / Val / Test samples |
+|---|-------|---------------------------|
+| 0 | ActividadBASE_NO pattern activity (baseline/background) | 158 / 34 / 33 |
+| 1 | Pulses HAMMERING | 30 / 7 / 6 |
+| 2 | Marked cycles 3 segundos | 92 / 20 / 20 |
+| 3 | Continuous activity & tone 3.15kHz — SPL ALTO | 492 / 105 / 106 |
+| 4 | Continuous activity & tone 3.15kHz — SPL BAJO | 178 / 38 / 39 |
+| 5 | Blasts | 51 / 11 / 11 |
+| 6 | Machinery continuous activity | 352 / 75 / 76 |
+| 7 | Works, sirens & knocks (high-frequency bursts at 3.15 kHz) | 29 / 6 / 6 |
 
-0. **ActividadBASE_NO pattern activity** - Baseline/background activity
-1. **Pulses HAMMERING** - Hammering/pulsing sounds
-2. **Marked cycles 3 segundos** - Marked cyclical patterns (3 seconds)
-3. **Continuous activity & tone 3.15kHz_SPL ALTO** - Continuous tone (high SPL)
-4. **Continuous activity & tone 3.15kHz_SPL BAJO** - Continuous tone (low SPL)
-5. **Blasts** - Blast/explosion sounds
-6. **Machinery continuous activity** - Steady machinery operation
-7. **Works, sirens and knocks en altas frecuencias RAFAGAS a 3.15** - High-frequency sirens and knocks
+1,975 samples total, 70/15/15 stratified split, **17× class imbalance** (492 vs 29 training samples).
 
 ## 📊 Dataset
 
-### Structure
+### Audio specifications
+- **Sample rate**: 96,000 Hz · **Duration**: 60 s per clip · **Original format**: WAV
+- Source data arrives as pre-rendered MATLAB spectrogram images (`*_spectrogram_win16384.png`, win=16384, overlap=90%, nfft=32768, log-frequency axis 20 Hz–15 kHz)
 
+### Structure
 ```
 Data/
 ├── Annotations/
 │   ├── audio_annotations.csv     # Metadata for all audio files
-│   ├── train.csv                 # Training set annotations
-│   ├── val.csv                   # Validation set annotations
-│   └── test.csv                  # Test set annotations
-└── Spectrograms/
-    ├── train/                    # Training spectrograms (70%)
-    ├── val/                      # Validation spectrograms (15%)
-    └── test/                     # Test spectrograms (15%)
+│   ├── train.csv / val.csv / test.csv
+├── Spectrograms/                 # LEGACY: full-figure renders (3×1714×3156, ~65 MB each)
+│   ├── train/ val/ test/         #   kept only as re-conversion source
+└── Spectrograms_224/             # CURRENT: plot interior, 224×224, z-scored (~600 KB each)
+    ├── train/ val/ test/         #   all current models train/evaluate on this
 ```
 
-### Audio Specifications
+## 🚨 The Data Pipeline Fix (key finding)
 
-- **Sample Rate**: 96,000 Hz
-- **Duration**: 60 seconds per clip
-- **Format**: WAV files (original), converted to spectrograms (.pt format)
-- **Train/Val/Test Split**: 70/15/15
+**Every model up to and including EfficientNet-03 trained on ~13% of each spectrogram without anyone noticing.**
 
-### Annotation Format
+What happened:
+1. The stored `.norm.pt` tensors were z-scored RGB renders of **entire MATLAB figures** (3×1714×3156): title text (containing the source filename), axis labels, and colorbar included.
+2. `dataset.py` cropped every sample to a fixed width of **400 pixels** — a setting written for real mel-spectrogram matrices (~128×400) but applied to 3,156-pixel-wide figure screenshots. The model saw only the leftmost strip: white margin, the rotated "Frequency (Hz)" label, and roughly the **first 4 seconds** of a 60-second recording.
+3. The 65 MB files also meant ~90 GB of disk reads per epoch → **~50 min/epoch on CPU**.
 
-The CSV files contain:
-- `category` - Sound class label
-- `filename` - Original WAV filename
-- `duration_sec` - Audio duration in seconds
-- `sample_rate` - Audio sample rate in Hz
+The fix (`src/preprocess/downsize_spectrograms.py`): crop the plot interior (rows 54:1578, cols 209:2969 — pixel-identical across all files), resize to 224×224 with antialiasing, re-z-score, save to `Data/Spectrograms_224`. Result: full time axis visible, no text/margins (removes a filename-shortcut-learning risk), 100× smaller files, **~4–5 min/epoch** — a ~10× faster experiment cycle.
+
+**Measured impact (controlled ablation, EfficientNet-02 vs -05, identical config):** 70% → 81.1% test accuracy from the data fix alone, with zero hyperparameter changes.
+
+## 🧠 Models & Results
+
+All current models: ImageNet-pretrained backbones fine-tuned on `Spectrograms_224`. The **full anti-overfitting package** = SpecAugment (2 frequency + 2 time masks, train only), partial backbone freezing (frozen-block BatchNorm kept in eval mode), dropout 0.35, AdamW weight decay 1e-2, balanced class weights + ×1.5 boost for classes 1 & 7, label smoothing 0.1, batch 16, checkpoint & early-stop on **validation macro-F1**, ReduceLROnPlateau.
+
+### Main results (fixed dataset, test set — 297 samples)
+
+| Model | Recipe | Params (trainable) | Test acc | Macro-F1 | Weighted-F1 |
+|---|---|---|---|---|---|
+| **MobileNetV3-02** 🏆 | full package (freeze features 0–12) | 5.4M (81%) | **86.5%** | **0.83** | **0.87** |
+| EfficientNet-04 | full package (freeze features 0–5) | 4.0M (79%) | 83.2% | 0.78 | 0.83 |
+| EfficientNet-05 | run-02 baseline config (ablation control) | 4.0M (100%) | 81.1% | 0.82 | 0.81 |
+| ResNet50-02 | full package (layer4 + fc only) | 23.5M (64%) | 80.8% | 0.73 | 0.82 |
+| PreTrained-02 | Watkins warm-start + full package | 4.0M (79%) | 27.3% ❌ | 0.26 | 0.26 |
+
+### Per-class F1 (best model, MobileNetV3-02)
+
+| Class | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|---|---|---|---|---|---|---|---|---|
+| F1 | 0.88 | 0.62 | 0.84 | 0.86 | 0.80 | 0.95 | 0.93 | 0.75 |
+
+Class 7 recall is 6/6; class 4 (SPL BAJO) went from 0.46 (old baseline) to 0.80.
+
+### Historical runs (broken data view — quoted from recorded outputs, not re-evaluated)
+
+| Model | Test acc | Macro-F1 | Note |
+|---|---|---|---|
+| EfficientNet-01 | 67.7% | 0.63 | baseline config |
+| EfficientNet-02 | 70.0% | 0.59 | baseline config — previous project best |
+| EfficientNet-03a | — | — | squared inverse-freq class weights (~300× dynamic range) → training collapsed below the 36% majority-class baseline; aborted |
+| EfficientNet-03b | — | — | balanced+boost weights, OneCycleLR: best val acc 71.6% (ep13), then overfit to 99% train acc; stopped ep18 |
+| ResNet50-01 | 61.3% | 0.55 | 25M params fully fine-tuned on 1,382 images → memorised training set |
+| PreTrained-01 | 0.3% | 0.00 | 44-class Watkins marine-species model evaluated zero-shot — disjoint class sets, invalid experiment |
+
+## 🔍 Findings from Evaluation
+
+1. **The data fix dominated everything.** +13 accuracy points (70→81%) with the identical baseline config. No amount of hyperparameter tuning on broken data came close — data quality beat every modelling effort combined.
+2. **The regularisation package buys training stability more than raw accuracy.** On EfficientNet it added +2.1 pts (81.1→83.2) and, more importantly, healthy monotone learning curves — the unregularised control still shot to 99% train accuracy by epoch 14 and relied on early stopping to rescue a good checkpoint.
+3. **Architecture choice mattered more than tuning: smaller generalises better.** MobileNetV3 (5.4M) > EfficientNet-B0 (4.0M, but higher capacity per image) > ResNet-50 (23.5M) on this 1,382-image dataset. ResNet-50 lost even with only layer4 trainable.
+4. **Domain-mismatched transfer learning fails.** Warm-starting from the Watkins bioacoustics model (trained on librosa grayscale mel-spectrograms) collapsed to 27% — its features never matched these MATLAB RGB renders, and the frozen blocks locked the mismatch in. Generic ImageNet features transfer better than narrow-domain features from a different rendering pipeline.
+5. **Remaining error mass is concentrated and explainable:**
+   - **Class 3 ↔ 4 confusion**: the two 3.15 kHz tone classes differ only in amplitude (SPL), which per-sample z-score normalisation largely erases.
+   - **Class 1 (Hammering)**: only 30 training samples; best F1 0.62.
+6. **Checkpoint selection matters under imbalance**: weighted val loss was dominated by a handful of rare-class samples; switching model selection to val macro-F1 gave stabler, fairer checkpoints.
+7. **Statistical honesty**: per-class F1 for classes 1, 5, 7 rests on 6–11 test samples — one flipped sample moves recall by ~17 points. Differences there are indicative, not significant; k-fold CV would be needed to defend rare-class claims.
+8. **OneCycleLR and early stopping don't mix** (03b): early stopping cuts the schedule off before the low-LR anneal that OneCycle depends on. Use ReduceLROnPlateau with early stopping.
+
+## ✅ Which Model to Use When
+
+| Priority | Model | Choose when |
+|---|---|---|
+| **1** | **MobileNetV3-02** | Default & deployment: pre-labeling unlabeled data, CPU/edge inference. Best accuracy, best hard-class balance, smallest and fastest. |
+| **2** | EfficientNet-04 | Ensemble partner (its errors differ — best class-7 F1 at 0.80) and the most stable recipe for future experiments (e.g. higher-resolution input). |
+| **3** | EfficientNet-05 | Reporting only — the scientific control quantifying the data-fix effect. Not for deployment. |
+| **4** | ResNet50-02 | No deployment scenario; keep as the architecture-comparison data point. |
+| — | PreTrained-02 | Negative-result documentation only. |
+
+**Deployment guidance** (pre-labeling unlabeled data): export softmax probabilities with each prediction; auto-accept high-confidence bulk classes, route low-confidence (max-prob < ~0.7) and all rare-class predictions (1, 7) to human review. Preprocessing parity is critical — unlabeled data must pass through the identical chain (same MATLAB render settings → plot-interior crop → 224×224 → z-score).
 
 ## 📁 Project Structure
 
 ```
 REPSOL/
-├── README.md                              # This file
-├── Dataset_exploration.ipynb              # EDA notebook
-├── Main.ipynb                             # Main training notebook
-├── Preprocess.ipynb                       # Data preprocessing notebook
-├── run_pretrained_test.py                 # Script to test pretrained model
+├── README.md
+├── Dataset_exploration.ipynb              # EDA
+├── Preprocess.ipynb                       # split + PNG→tensor conversion
 │
-├── Data/
-│   ├── Annotations/                       # CSV metadata
-│   └── Spectrograms/                      # Spectrogram tensors
+├── Data/                                  # (see Dataset section)
 │
-├── Models/
-│   ├── EfficientNet.ipynb                 # EfficientNet training notebook
-│   ├── Main.ipynb                         # Main model training
-│   └── PreTrained_model.ipynb             # Pre-trained model notebook
+├── Models/                                # one notebook per training run
+│   ├── EfficientNet_01..03.ipynb          # legacy (broken data) — kept for reproducibility
+│   ├── EfficientNet_04.ipynb              # full package on fixed data
+│   ├── EfficientNet_05.ipynb              # ablation control (baseline cfg, fixed data)
+│   ├── MobileNetV3_01.ipynb / _02.ipynb   # _02 = best model
+│   ├── ResNet50_01.ipynb / _02.ipynb
+│   ├── PreTrained_model_01.ipynb / _02.ipynb  # Watkins zero-shot / warm-start
+│   └── Evaluation.ipynb                   # ⭐ single source of truth: live eval + history + verdict
 │
-├── Models_output/
-│   ├── efficientnet_best_01.pth           # Best EfficientNet weights
-│   ├── efficientnet_best_training_history_01.csv  # Training history
-│   ├── PreTrained_model_best_01.pth       # Best pre-trained model weights
+├── Models_output/                         # checkpoints (*.pth) + training histories (*.csv)
 │
+├── outputs/evaluation/                    # summary CSVs, comparison charts, confusion matrices,
+│                                          # per-class F1 heatmap, learning curves, cache/
 └── src/
-    ├── dataloaders.py                     # PyTorch DataLoader utilities
-    ├── dataset.py                         # Custom Dataset classes
-    ├── evaluate.py                        # Evaluation metrics
-    ├── plot_analysis.py                   # Visualization utilities
-    │
-    ├── EfficientNet/
-    │   ├── model.py                       # EfficientNet architecture
-    │   └── train.py                       # Training loop
-    │
-    ├── preprocess/
-    │   ├── generate_spectrograms_from_images.py  # Spectrogram generation
-    │   ├── metadata.py                    # Metadata handling
-    │   ├── normalize_pt.py                # Normalization utilities
-    │   ├── preprocess.py                  # Main preprocessing
-    │   ├── split_fold.py                  # K-fold splitting
-    │   └── split.py                       # Train/val/test splitting
-    │
-    └── PreTrained_model/
-        ├── model.py                       # Pre-trained model architecture
-        ├── load_pretrained.py             # Model loading utilities
-        └── test_load.py                   # Testing script
+    ├── dataset.py                         # SpectrogramPTDataset (transform + target_width params)
+    ├── dataloaders.py                     # train/val/test loaders (train_transform for SpecAugment)
+    ├── evaluate.py                        # metrics helpers
+    ├── plot_analysis.py                   # visualisation utilities
+    ├── EfficientNet/  MobileNet/  ResNet/ # one model.py per architecture (+ EfficientNet/train.py)
+    ├── PreTrained_model/                  # Watkins checkpoint loading utilities
+    └── preprocess/
+        ├── generate_spectrograms_from_images.py  # PNG → full-figure .norm.pt (legacy path)
+        ├── downsize_spectrograms.py       # ⭐ figure tensors → cropped 224×224 (the fix)
+        ├── split.py / metadata.py / preprocess.py / normalize_pt.py
 ```
 
 ## 🚀 Installation
 
-### Requirements
+- Python 3.10+ · PyTorch, torchvision, torchaudio · scikit-learn, pandas, numpy, matplotlib, seaborn, tqdm
 
-- Python 3.8+
-- PyTorch with GPU support (recommended)
-- torchvision
-- torchaudio
-- scikit-learn
-- pandas
-- numpy
-- matplotlib
+```bash
+pip install torch torchvision torchaudio scikit-learn pandas numpy matplotlib seaborn tqdm
+```
 
-### Setup
-
-1. **Clone or navigate to the project**:
-   ```bash
-   cd REPSOL
-   ```
-
-2. **Create a virtual environment** (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies**:
-   ```bash
-   pip install torch torchvision torchaudio
-   pip install scikit-learn pandas numpy matplotlib
-   ```
+Training runs on CPU (~4–5 min/epoch for EfficientNet/MobileNet at 224×224); CUDA is used automatically if available.
 
 ## 💻 Usage
 
-### Data Preprocessing
-
-1. **Generate spectrograms** from audio files:
-   ```bash
-   python src/preprocess/generate_spectrograms_from_images.py
-   ```
-
-2. **Split data** into train/val/test sets:
-   ```bash
-   python src/preprocess/split.py
-   ```
-
-3. **Normalize spectrograms**:
-   ```bash
-   python src/preprocess/normalize_pt.py
-   ```
-
-### Training
-
-#### Option 1: Using Jupyter Notebooks
-
-Run the notebooks in this order:
-
-1. **Main.ipynb** - Full pipeline (recommended for first run)
-   - Loads data
-   - Trains EfficientNet
-   - Evaluates on test set
-   - Generates classification report
-
-2. **Dataset_exploration.ipynb** - Exploratory Data Analysis
-   - Visualizes spectrogram distribution
-   - Checks data balance
-   - Analyzes class statistics
-
-#### Option 2: Using Scripts
-
-Train EfficientNet directly:
+### 1. Build the dataset (one-time)
 ```bash
-cd Models
-jupyter nbconvert --to script Main.ipynb
-python Main.py
+# PNG figures → full-figure tensors (needs the source image drive mounted)
+python -m src.preprocess.generate_spectrograms_from_images
+# full-figure tensors → model-ready 224×224 tensors
+python -m src.preprocess.downsize_spectrograms
 ```
 
-### Evaluation
+### 2. Train
+Open a run notebook in `Models/` and run all cells — recommended starting points are `MobileNetV3_02.ipynb` or `EfficientNet_04.ipynb`. Each notebook is self-contained (config → data check → training → evaluation → learning curves) and auto-numbers its checkpoint so reruns never overwrite previous results.
 
-Test a pre-trained model:
-```bash
-python run_pretrained_test.py
-```
+### 3. Evaluate & compare
+Run `Models/Evaluation.ipynb`. It live-evaluates every current checkpoint on the fixed test set (with caching — instant reruns), reproduces all comparison tables/charts, includes the historical runs, and ends with the verdict & decision guide. Set `FORCE_RERUN = True` after retraining a model.
 
-## 🧠 Models
+### ⚠️ Legacy notebooks
+`EfficientNet_01–03`, `ResNet50_01`, `MobileNetV3_01`, `PreTrained_model_01` point at the **broken** data view (`Data/Spectrograms` + 400-px crop). They are kept so their recorded results stay reproducible — do not use them for new experiments; copy from an `_02`/`04` notebook instead.
 
-### 1. EfficientNet (EfficientNet-B0)
+## 🔭 Next Steps
 
-**Architecture**: Transfer learning from ImageNet-pretrained EfficientNet-B0
-
-**Key Features**:
-- Pretrained backbone frozen (feature extractor)
-- Custom classifier head for 8 sound classes
-- Single-channel mel-spectrograms converted to 3-channel images
-- Efficient scaling for good accuracy-to-parameter ratio
-
-**Configuration** (from Main.ipynb):
-- Batch Size: 16
-- Epochs: 15
-- Learning Rate: 1e-3
-- Early Stopping Patience: 4 epochs
-- Optimizer: Adam (default in training)
-
-**Output**: `Models_output/efficientnet_best_01.pth`
-
-### 2. Pre-trained Model
-
-**Architecture**: Custom architecture with pre-trained ImageNet weights
-
-**Key Features**:
-- Specialized for spectrogram classification
-- Can be loaded with custom checkpoint system
-
-**Output**: `Models_output/PreTrained_model_best_01.pth`
-
-## 📈 Results
-
-The trained models' performance is tracked through:
-
-1. **Training History**: `Models_output/efficientnet_best_training_history_01.csv`
-   - Loss and accuracy per epoch
-   - Validation metrics
-   - Training curves
-
-2. **Model Checkpoints**: `.pth` files containing best weights
-
-3. **Evaluation Reports**: Classification reports and confusion matrices generated during evaluation
-
-### Metrics
-
-- **Accuracy**: Overall classification accuracy on test set
-- **Precision/Recall/F1**: Per-class metrics
-- **Confusion Matrix**: Misclassification patterns
-
-## 🔧 Data Pipeline
-
-### Spectrogram Generation
-
-```
-Raw WAV Audio (96 kHz, 60 sec)
-    ↓
-Mel-Spectrogram (converts time-domain to frequency-domain)
-    ↓
-Normalized Tensor (channel-first format)
-    ↓
-Saved as .pt file (PyTorch tensor)
-```
-
-### Dataset Loading
-
-The `SpectrogramPTDataset` class:
-- Loads pre-generated .pt spectrogram files
-- Maintains class hierarchy
-- Supports in-memory caching for faster training
-- Applies optional transforms (augmentations)
-
-```python
-from src.dataset import SpectrogramPTDataset
-
-dataset = SpectrogramPTDataset(
-    root_dir="Data/Spectrograms/train",
-    cache_in_memory=True  # Cache dataset in RAM for faster access
-)
-```
-
-### Data Augmentation
-
-Transforms can be applied during training for:
-- Robustness improvement
-- Better generalization
-- Reducing overfitting
-
-## 📝 Key Notebooks
-
-### Main.ipynb
-The primary notebook that runs the complete pipeline:
-1. Configures hyperparameters
-2. Loads and verifies spectrogram tensors
-3. Trains EfficientNet with progress tracking
-4. Evaluates on validation and test sets
-5. Outputs detailed classification metrics
-
-### Dataset_exploration.ipynb
-Exploratory analysis:
-- Data distribution across classes
-- Spectrogram visualization
-- Class imbalance analysis
-
-### Preprocess.ipynb
-Data preparation:
-- Audio file validation
-- Spectrogram generation
-- Normalization and caching
-
-## 🔍 Troubleshooting
-
-### Out of Memory (OOM)
-
-- Reduce `BATCH_SIZE` in training notebooks
-- Set `cache_in_memory=False` in dataset loading
-- Use gradient accumulation
-
-### Model Not Improving
-
-- Check data loading (verify spectrograms are correct)
-- Adjust learning rate
-- Increase training epochs
-- Ensure classes are balanced
-
-### Missing Spectrograms
-
-- Run preprocessing pipeline first
-- Verify audio files are in correct format
-- Check file paths in configuration
-
-## 📖 References
-
-- **PyTorch Documentation**: https://pytorch.org/docs/stable/index.html
-- **EfficientNet Paper**: https://arxiv.org/abs/1905.11946
-- **Mel-Spectrograms**: https://en.wikipedia.org/wiki/Mel-scale
-
-## 📞 Notes
-
-- All paths in notebooks may need adjustment based on your local setup
-- GPU recommended for faster training (CUDA support detected automatically)
-- Dataset contains sensitive industrial data; handle accordingly
+1. **Higher time-resolution input** — regenerate at 224×448 (`TARGET_SIZE` in `downsize_spectrograms.py`) to give transient classes (1, 5, 7) more temporal detail; compare against the 224² baseline.
+2. **More data for classes 1 & 7** (30/29 training samples) — no ML technique substitutes for data; worth raising with REPSOL/INMAR. Overlapping-window slicing of source audio is an alternative (keep windows of one recording in one split to avoid leakage).
+3. **Soft-voting ensemble** MobileNetV3-02 + EfficientNet-04 for offline batch labeling (see the oracle-ensemble ceiling in Evaluation.ipynb §11b).
+4. **Class 3↔4**: their distinction is amplitude-only, which z-scoring erases — consider adding a global (non-per-sample) amplitude feature, or raise merging them as a domain question.
+5. **Inference script** for unlabeled data: folder → CSV of `filename, predicted_class, confidence, top-3` with a review threshold.
+6. **K-fold cross-validation** if rare-class performance claims need statistical backing.
 
 ## 📄 License
 
-This project is part of an INMAR internship program.
+This project is part of an INMAR internship program. Dataset contains industrial monitoring data from REPSOL facilities; handle accordingly.
 
 ---
 
-**Last Updated**: May 2026
+**Last Updated**: July 2026

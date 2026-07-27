@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem E:\\\\ | Select-Object Name, @{N='SizeGB';E={[math]::Round\\(\\(Get-ChildItem $_.FullName -Recurse -File -ErrorAction SilentlyContinue | Measure-Object Length -Sum\\).Sum/1GB,2\\)}} | Sort-Object SizeGB -Descending | Format-Table -AutoSize)",
+      "Bash(dir /s /b)",
+      "PowerShell(& \"C:\\\\Users\\\\beno7\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python314\\\\python.exe\" \"C:\\\\Users\\\\beno7\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\D--Work-Internships-INMAR-REPSOL\\\\a0167a2c-208e-4344-89ec-230068687d95\\\\scratchpad\\\\run_eval.py\")",
+      "PowerShell(& \"C:\\\\Users\\\\beno7\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python314\\\\python.exe\" \"C:\\\\Users\\\\beno7\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\D--Work-Internships-INMAR-REPSOL\\\\a0167a2c-208e-4344-89ec-230068687d95\\\\scratchpad\\\\eval_resnet.py\")",
+      "Bash(python -c \"import torch; print\\('cuda available:', torch.cuda.is_available\\(\\)\\); print\\('torch version:', torch.__version__\\)\")",
+      "Bash(python -c \"import json,sys; nb=json.load\\(sys.stdin\\); [print\\('---CELL---'\\); ] \")",
+      "PowerShell(py \"C:\\\\Users\\\\beno7\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\D--Work-Internships-INMAR-REPSOL\\\\79648b03-9bff-4ba4-9bfe-83c6fdadf21f\\\\scratchpad\\\\inspect_tensor.py\")",
+      "PowerShell(py \"C:\\\\Users\\\\beno7\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\D--Work-Internships-INMAR-REPSOL\\\\79648b03-9bff-4ba4-9bfe-83c6fdadf21f\\\\scratchpad\\\\detect_axes.py\")",
+      "PowerShell(py \"C:\\\\Users\\\\beno7\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\D--Work-Internships-INMAR-REPSOL\\\\79648b03-9bff-4ba4-9bfe-83c6fdadf21f\\\\scratchpad\\\\compare_views.py\")",
+      "PowerShell(py -X utf8 \"C:\\\\Users\\\\beno7\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\D--Work-Internships-INMAR-REPSOL\\\\79648b03-9bff-4ba4-9bfe-83c6fdadf21f\\\\scratchpad\\\\eval_new_two.py\")"
+    ]
+  }
+}

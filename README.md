@@ -132,6 +132,7 @@ REPSOL/
 ├── README.md
 ├── Dataset_exploration.ipynb              # EDA
 ├── Preprocess.ipynb                       # split + PNG→tensor conversion
+├── Inference.ipynb                        # ⭐ deploy: run best model on new, unlabeled data
 │
 ├── Data/                                  # (see Dataset section)
 │
@@ -196,7 +197,7 @@ Run `Models/Evaluation.ipynb`. It live-evaluates every current checkpoint on the
 2. **More data for classes 1 & 7** (30/29 training samples) — no ML technique substitutes for data; worth raising with REPSOL/INMAR. Overlapping-window slicing of source audio is an alternative (keep windows of one recording in one split to avoid leakage).
 3. **Soft-voting ensemble** MobileNetV3-02 + EfficientNet-04 for offline batch labeling (see the oracle-ensemble ceiling in Evaluation.ipynb §11b).
 4. **Class 3↔4**: their distinction is amplitude-only, which z-scoring erases — consider adding a global (non-per-sample) amplitude feature, or raise merging them as a domain question.
-5. **Inference script** for unlabeled data: folder → CSV of `filename, predicted_class, confidence, top-3` with a review threshold.
+5. ~~**Inference script** for unlabeled data: folder → CSV of `filename, predicted_class, confidence, top-3` with a review threshold.~~ Done — see `Inference.ipynb`.
 6. **K-fold cross-validation** if rare-class performance claims need statistical backing.
 
 ## 📄 License

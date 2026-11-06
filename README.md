@@ -151,8 +151,9 @@ REPSOL/
 │                                          # per-class F1 heatmap, learning curves, cache/
 │
 ├── outputs/paper/                         # paper figures: confusion matrices of MobileNetV3-02 with
-│                                          # category names (normalised = Figure 5, counts = Figure X5),
-│                                          # made by src/make_confusion_figures.py
+│                                          # category names (normalised = Figure 5, counts = Figure X4),
+│                                          # + appendix figures X1-X3 (learning curves, per-category F1, ROC)
+│                                          # made by src/make_confusion_figures.py + src/make_appendix_figures.py
 └── src/
     ├── dataset.py                         # SpectrogramPTDataset (transform + target_width params)
     ├── dataloaders.py                     # train/val/test loaders (train_transform for SpecAugment)
